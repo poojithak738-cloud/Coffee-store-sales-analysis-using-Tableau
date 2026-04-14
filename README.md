@@ -1,21 +1,28 @@
-Super Market Sales Performance Dashboard
+ ☕ Coffee Store Sales Analysis Dashboard
 
-📊 Project Overview
-This project is a Power BI dashboard that analyzes supermarket sales data.
+ 📊 Project Overview
+This project is a Tableau dashboard that analyzes coffee store sales data to understand business performance and trends.
 
-🔍 Key Features
-- Total Sales, Profit, Transactions Analysis
-- Interactive Filters and Slicers
-- Map Visualization (Country-wise analysis)
-- KPI Cards and Charts
+📌 Business Problem
+The goal of this project is to analyze sales data to identify trends, improve performance, and support business decisions.
+
+ 🔍 Key Features
+- Total Sales, Profit, and Orders Analysis  
+- Product Category-wise Sales  
+- Time-based Trends Analysis  
+- Store Location Analysis (Map)  
+- Interactive Filters  
 
 🛠 Tools Used
-- Power BI
-- Data Visualization
+- Tableau  
+- Data Visualization  
 
  📈 Insights
-- Identified top-performing products
-- Analyzed sales trends
-- Improved business decision-making
+- Identified top-selling products  
+- Analyzed monthly sales trends  
+- Compared performance across regions  
+
+✅ Conclusion
+This dashboard helps in understanding coffee store performance and supports better decision-making.
 
 
